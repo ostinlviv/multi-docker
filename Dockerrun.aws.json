@@ -24,7 +24,7 @@
         },
         {
             "name": "nginx",
-            "image": "ostinlviv/multi-nginxt",
+            "image": "ostinlviv/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "memory": 128,
